@@ -2,8 +2,6 @@
 
 A simple web app to calculate the minimum number of currency notes to return as change for a given bill amount and cash paid by the customer.  
 
-![Demo Screenshot](/demo.png) *(Optional: Add a screenshot later)*  
-
 ## Features  
 - Calculates the exact change to be returned.  
 - Supports Indian currency denominations (2000, 500, 100, 20, 10, 5, 1).  
